@@ -1,18 +1,21 @@
 ﻿#KRAF 연합벤 리스트 입니다.
 
-#|벤된 유저 닉네임|              |스팀 프로필 링크|                                            |벤사유|   |벤 요청 게시글|
+#|벤된 유저 닉네임|              |스팀 프로필 링크|                                            |벤사유|         |벤 요청 게시글|
 
-#falrnrnrnrnrn               https://steamcommunity.com/profiles/76561198407220207    욕설       https://cafe.naver.com/kraf/1182
+#falrnrnrnrnrn               https://steamcommunity.com/profiles/76561198407220207    욕설             https://cafe.naver.com/kraf/1182
 76561198407220207
 
-#윈도우                        https://steamcommunity.com/profiles/76561198997258484    욕설       https://cafe.naver.com/kraf/1182
+#윈도우                        https://steamcommunity.com/profiles/76561198997258484    욕설             https://cafe.naver.com/kraf/1182
 76561198997258484
 
-#pussy                       http://steamcommunity.com/profiles/76561198334015023     욕설       https://cafe.naver.com/kraf/1182
+#pussy                       http://steamcommunity.com/profiles/76561198334015023     욕설             https://cafe.naver.com/kraf/1182
 76561198334015023
 
-#김문어                        http://steamcommunity.com/profiles/76561198981533108     욕설       https://cafe.naver.com/kraf/1182
+#김문어                        http://steamcommunity.com/profiles/76561198981533108     욕설             https://cafe.naver.com/kraf/1182
 76561198981533108
 
-#huignl1020                  http://steamcommunity.com/profiles/76561199016600462     욕설       https://cafe.naver.com/kraf/1182
+#huignl1020                  http://steamcommunity.com/profiles/76561199016600462     욕설             https://cafe.naver.com/kraf/1182
 76561199016600462
+
+#Godster                     http://steamcommunity.com/profiles/76561198831040404     디도스/웹스트레서    https://cafe.naver.com/kraf/1188
+76561198831040404
